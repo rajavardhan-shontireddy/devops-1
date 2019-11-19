@@ -2097,6 +2097,14 @@ if(And( month(Today())= month(FinServ__RelationshipStartDate__c), Day(Today())&l
         <securityClassification>Confidential</securityClassification>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
+	<fields>
+        <fullName>Preferred_Date__c</fullName>
+        <externalId>false</externalId>
+        <label>Preferred Date</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Date</type>
+    </fields>
     <fields>
         <fullName>Rating</fullName>
         <securityClassification>Confidential</securityClassification>

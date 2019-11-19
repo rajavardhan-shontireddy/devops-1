@@ -1142,6 +1142,36 @@
         <trackTrending>false</trackTrending>
         <type>Date</type>
     </fields>
+	 <fields>
+        <fullName>Preferred_Time__c</fullName>
+        <externalId>false</externalId>
+        <label>Preferred day</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetDefinition>
+                <sorted>false</sorted>
+                <value>
+                    <fullName>Morning</fullName>
+                    <default>false</default>
+                    <label>Morning</label>
+                </value>
+                <value>
+                    <fullName>Afternoon</fullName>
+                    <default>false</default>
+                    <label>Afternoon</label>
+                </value>
+                <value>
+                    <fullName>Evening</fullName>
+                    <default>false</default>
+                    <label>Evening</label>
+                </value>
+            </valueSetDefinition>
+        </valueSet>
+    </fields>
     <fields>
         <fullName>FinServ__FinancialAccountChargesAndFees__c</fullName>
         <deleteConstraint>SetNull</deleteConstraint>
