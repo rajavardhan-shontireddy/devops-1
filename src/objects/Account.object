@@ -2235,6 +2235,16 @@ if(And( month(Today())= month(FinServ__RelationshipStartDate__c), Day(Today())&l
         <trackFeedHistory>false</trackFeedHistory>
         <type>Date</type>
     </fields>
+	<fields>
+        <fullName>jenkinbuild__c</fullName>
+        <externalId>false</externalId>
+        <label>jenkinbuild</label>
+        <length>40</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
     <listViews>
         <fullName>AllAccounts</fullName>
         <filterScope>Everything</filterScope>
