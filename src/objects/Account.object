@@ -2227,6 +2227,14 @@ if(And( month(Today())= month(FinServ__RelationshipStartDate__c), Day(Today())&l
         <fullName>YearStarted</fullName>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
+	 <fields>
+        <fullName>custom_date__c</fullName>
+        <externalId>false</externalId>
+        <label>custom date</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Date</type>
+    </fields>
     <listViews>
         <fullName>AllAccounts</fullName>
         <filterScope>Everything</filterScope>
