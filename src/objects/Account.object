@@ -2238,6 +2238,16 @@ if(And( month(Today())= month(FinServ__RelationshipStartDate__c), Day(Today())&l
         <type>Text</type>
         <unique>false</unique>
 </fields>
+ <fields>
+        <fullName>currenttime__c</fullName>
+        <externalId>false</externalId>
+        <label>currenttime</label>
+        <length>10</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
     <listViews>
         <fullName>AllAccounts</fullName>
         <filterScope>Everything</filterScope>
