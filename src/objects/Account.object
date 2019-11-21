@@ -432,16 +432,6 @@
     </fields>
 	</fields>
     <fields>
-        <fullName>currenttime__c</fullName>
-        <externalId>false</externalId>
-        <label>currenttime</label>
-        <length>10</length>
-        <required>false</required>
-        <trackFeedHistory>false</trackFeedHistory>
-        <type>Text</type>
-        <unique>false</unique>
-    </fields>
-    <fields>
         <fullName>CustomerPriority__c</fullName>
         <externalId>false</externalId>
         <label>Customer Priority</label>
