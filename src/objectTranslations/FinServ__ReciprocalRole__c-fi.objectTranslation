@@ -396,53 +396,5 @@
         <possessive>Second</possessive>
         <value>Käänteisroolejasi</value>
     </caseValues>
-    <fields>
-        <help>Jos tämä on valittuna, vastaava käänteisrooli luodaan automaattisesti.</help>
-        <label><!-- Create Inverse Role --></label>
-        <name>FinServ__CreateInverseRole__c</name>
-    </fields>
-    <fields>
-        <label><!-- InverseRelationship --></label>
-        <name>FinServ__InverseRelationship__c</name>
-        <relationshipLabel><!-- Inverse Relationship --></relationshipLabel>
-    </fields>
-    <fields>
-        <label><!-- Inverse Role --></label>
-        <name>FinServ__InverseRole__c</name>
-    </fields>
-    <fields>
-        <label><!-- Relationship Type --></label>
-        <name>FinServ__RelationshipType__c</name>
-        <picklistValues>
-            <masterLabel>Account Account Relation</masterLabel>
-            <translation>Tili–tili-suhde</translation>
-        </picklistValues>
-        <picklistValues>
-            <masterLabel>All</masterLabel>
-            <translation>Kaikki</translation>
-        </picklistValues>
-        <picklistValues>
-            <masterLabel>Contact Contact Relation</masterLabel>
-            <translation>Yhteyshenkilö–yhteyshenkilö-suhde</translation>
-        </picklistValues>
-    </fields>
-    <fields>
-        <label><!-- Source System ID --></label>
-        <name>FinServ__SourceSystemId__c</name>
-    </fields>
     <nameFieldLabel>Rooli</nameFieldLabel>
-    <recordTypes>
-        <description><!-- Roles associated with Account-Account Relationships --></description>
-        <label><!-- Account Role --></label>
-        <name>FinServ__AccountRole</name>
-    </recordTypes>
-    <recordTypes>
-        <description><!-- Roles associated with Contact-Contact Relationships --></description>
-        <label><!-- Contact Role --></label>
-        <name>FinServ__ContactRole</name>
-    </recordTypes>
-    <validationRules>
-        <errorMessage><!-- Reciprocal Role cannot be modified --></errorMessage>
-        <name>FinServ__ProhibitUpdates</name>
-    </validationRules>
 </CustomObjectTranslation>

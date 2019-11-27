@@ -60,54 +60,6 @@
         <plural>true</plural>
         <value>Возвратных ролях</value>
     </caseValues>
-    <fields>
-        <help>При выборе данного параметра соответствующая обратная роль создается автоматически.</help>
-        <label><!-- Create Inverse Role --></label>
-        <name>FinServ__CreateInverseRole__c</name>
-    </fields>
-    <fields>
-        <label><!-- InverseRelationship --></label>
-        <name>FinServ__InverseRelationship__c</name>
-        <relationshipLabel><!-- Inverse Relationship --></relationshipLabel>
-    </fields>
-    <fields>
-        <label><!-- Inverse Role --></label>
-        <name>FinServ__InverseRole__c</name>
-    </fields>
-    <fields>
-        <label><!-- Relationship Type --></label>
-        <name>FinServ__RelationshipType__c</name>
-        <picklistValues>
-            <masterLabel>Account Account Relation</masterLabel>
-            <translation>Связь типа &quot;Организация-организация&quot;</translation>
-        </picklistValues>
-        <picklistValues>
-            <masterLabel>All</masterLabel>
-            <translation>Все</translation>
-        </picklistValues>
-        <picklistValues>
-            <masterLabel>Contact Contact Relation</masterLabel>
-            <translation>Связь типа &quot;Контакт-контакт&quot;</translation>
-        </picklistValues>
-    </fields>
-    <fields>
-        <label><!-- Source System ID --></label>
-        <name>FinServ__SourceSystemId__c</name>
-    </fields>
     <gender>Feminine</gender>
     <nameFieldLabel>Роль</nameFieldLabel>
-    <recordTypes>
-        <description><!-- Roles associated with Account-Account Relationships --></description>
-        <label><!-- Account Role --></label>
-        <name>FinServ__AccountRole</name>
-    </recordTypes>
-    <recordTypes>
-        <description><!-- Roles associated with Contact-Contact Relationships --></description>
-        <label><!-- Contact Role --></label>
-        <name>FinServ__ContactRole</name>
-    </recordTypes>
-    <validationRules>
-        <errorMessage><!-- Reciprocal Role cannot be modified --></errorMessage>
-        <name>FinServ__ProhibitUpdates</name>
-    </validationRules>
 </CustomObjectTranslation>

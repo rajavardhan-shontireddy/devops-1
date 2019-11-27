@@ -4,24 +4,4 @@
         <plural>false</plural>
         <value><!-- B2C リードと商談の対応付け --></value>
     </caseValues>
-    <fields>
-        <label><!-- IsActive --></label>
-        <name>FinServ__Active__c</name>
-    </fields>
-    <fields>
-        <label><!-- Lead Record Type Namespace --></label>
-        <name>FinServ__LeadRecordTypeNamespace__c</name>
-    </fields>
-    <fields>
-        <label><!-- Lead Record Type --></label>
-        <name>FinServ__LeadRecordType__c</name>
-    </fields>
-    <fields>
-        <label><!-- Opportunity Record Type Namespace --></label>
-        <name>FinServ__OpportunityRecordTypeNamespace__c</name>
-    </fields>
-    <fields>
-        <label><!-- Opportunity Record Type --></label>
-        <name>FinServ__OpportunityRecordType__c</name>
-    </fields>
 </CustomObjectTranslation>

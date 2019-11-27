@@ -8,13 +8,5 @@
         <plural>true</plural>
         <value><!-- Asignadores de tipos de registro de grupos --></value>
     </caseValues>
-    <fields>
-        <label><!-- Record Type Namespace (Account) --></label>
-        <name>FinServ__AccountRecordTypeNamespace__c</name>
-    </fields>
-    <fields>
-        <label><!-- Account Record Type --></label>
-        <name>FinServ__AccountRecordType__c</name>
-    </fields>
     <gender><!-- Masculine --></gender>
 </CustomObjectTranslation>

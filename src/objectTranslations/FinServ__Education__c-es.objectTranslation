@@ -8,47 +8,6 @@
         <plural>true</plural>
         <value>Formaciones</value>
     </caseValues>
-    <fields>
-        <label><!-- Contact --></label>
-        <name>FinServ__Contact__c</name>
-        <relationshipLabel><!-- Education --></relationshipLabel>
-    </fields>
-    <fields>
-        <label><!-- Education Level --></label>
-        <name>FinServ__EducationLevel__c</name>
-        <picklistValues>
-            <masterLabel>Decline to Comment</masterLabel>
-            <translation>Declinar para comentar</translation>
-        </picklistValues>
-        <picklistValues>
-            <masterLabel>Graduate</masterLabel>
-            <translation>Licenciado</translation>
-        </picklistValues>
-        <picklistValues>
-            <masterLabel>High School</masterLabel>
-            <translation>Escuela secundaria</translation>
-        </picklistValues>
-        <picklistValues>
-            <masterLabel>Post Graduate</masterLabel>
-            <translation>Posgrado</translation>
-        </picklistValues>
-    </fields>
-    <fields>
-        <label><!-- Graduation Date --></label>
-        <name>FinServ__GraduationDate__c</name>
-    </fields>
-    <fields>
-        <label><!-- Institution --></label>
-        <name>FinServ__Institution__c</name>
-    </fields>
-    <fields>
-        <label><!-- Source System ID --></label>
-        <name>FinServ__SourceSystemId__c</name>
-    </fields>
     <gender>Feminine</gender>
     <nameFieldLabel>Nombre de institución</nameFieldLabel>
-    <validationRules>
-        <errorMessage><!-- The year of graduation can&apos;t be in the future. --></errorMessage>
-        <name>FinServ__YearOfGradCannotBeInFuture</name>
-    </validationRules>
 </CustomObjectTranslation>

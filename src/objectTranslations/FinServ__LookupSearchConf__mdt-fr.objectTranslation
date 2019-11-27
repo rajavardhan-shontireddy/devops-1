@@ -8,22 +8,6 @@
         <plural>true</plural>
         <value><!-- Configurations de recherche de référence --></value>
     </caseValues>
-    <fields>
-        <label><!-- Implementation Class --></label>
-        <name>FinServ__ImplementationClass__c</name>
-    </fields>
-    <fields>
-        <label><!-- Object Name --></label>
-        <name>FinServ__ObjectName__c</name>
-    </fields>
-    <fields>
-        <label><!-- Placeholder Text --></label>
-        <name>FinServ__PlaceholderText__c</name>
-    </fields>
-    <fields>
-        <label><!-- View Name --></label>
-        <name>FinServ__ViewName__c</name>
-    </fields>
     <gender><!-- Feminine --></gender>
     <startsWith><!-- Consonant --></startsWith>
 </CustomObjectTranslation>

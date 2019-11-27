@@ -8,14 +8,6 @@
         <plural>true</plural>
         <value><!-- Mapper del tipo di record gruppo --></value>
     </caseValues>
-    <fields>
-        <label><!-- Record Type Namespace (Account) --></label>
-        <name>FinServ__AccountRecordTypeNamespace__c</name>
-    </fields>
-    <fields>
-        <label><!-- Account Record Type --></label>
-        <name>FinServ__AccountRecordType__c</name>
-    </fields>
     <gender><!-- Masculine --></gender>
     <startsWith><!-- Consonant --></startsWith>
 </CustomObjectTranslation>

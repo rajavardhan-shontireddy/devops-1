@@ -8,21 +8,5 @@
         <plural>true</plural>
         <value><!-- Conjuntos de campos personalizados --></value>
     </caseValues>
-    <fields>
-        <label><!-- Excluded Fields --></label>
-        <name>FinServ__ExcludedFields__c</name>
-    </fields>
-    <fields>
-        <label><!-- Field Set Label --></label>
-        <name>FinServ__FieldSetLabel__c</name>
-    </fields>
-    <fields>
-        <label><!-- SObject Name --></label>
-        <name>FinServ__SObjectName__c</name>
-    </fields>
-    <fields>
-        <label><!-- Two Column Layout --></label>
-        <name>FinServ__TwoColumnLayout__c</name>
-    </fields>
     <gender><!-- Masculine --></gender>
 </CustomObjectTranslation>

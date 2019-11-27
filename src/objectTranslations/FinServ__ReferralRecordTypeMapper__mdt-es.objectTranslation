@@ -8,13 +8,5 @@
         <plural>true</plural>
         <value><!-- Asignadores de tipos de registro de referencia --></value>
     </caseValues>
-    <fields>
-        <label><!-- Record Type Namespace (Lead) --></label>
-        <name>FinServ__LeadRecordTypeNamespace__c</name>
-    </fields>
-    <fields>
-        <label><!-- Lead Record Type --></label>
-        <name>FinServ__LeadRecordType__c</name>
-    </fields>
     <gender><!-- Masculine --></gender>
 </CustomObjectTranslation>

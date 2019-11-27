@@ -30,13 +30,5 @@
         <plural>true</plural>
         <value><!--  Mapperne for henvisningsregistreringstype  --></value>
     </caseValues>
-    <fields>
-        <label><!-- Record Type Namespace (Lead) --></label>
-        <name>FinServ__LeadRecordTypeNamespace__c</name>
-    </fields>
-    <fields>
-        <label><!-- Lead Record Type --></label>
-        <name>FinServ__LeadRecordType__c</name>
-    </fields>
     <gender><!-- Feminine --></gender>
 </CustomObjectTranslation>

@@ -30,13 +30,5 @@
         <plural>true</plural>
         <value><!-- InteractionFieldUpdates --></value>
     </caseValues>
-    <fields>
-        <label><!-- Record Type Name --></label>
-        <name>FinServ__RecordTypeName__c</name>
-    </fields>
-    <fields>
-        <label><!-- Object Name --></label>
-        <name>FinServ__SObject__c</name>
-    </fields>
     <gender><!-- Feminine --></gender>
 </CustomObjectTranslation>

@@ -8,14 +8,6 @@
         <plural>true</plural>
         <value><!-- Mappeurs de type d&apos;enregistrement de référent --></value>
     </caseValues>
-    <fields>
-        <label><!-- Record Type Namespace (Lead) --></label>
-        <name>FinServ__LeadRecordTypeNamespace__c</name>
-    </fields>
-    <fields>
-        <label><!-- Lead Record Type --></label>
-        <name>FinServ__LeadRecordType__c</name>
-    </fields>
     <gender><!-- Masculine --></gender>
     <startsWith><!-- Consonant --></startsWith>
 </CustomObjectTranslation>

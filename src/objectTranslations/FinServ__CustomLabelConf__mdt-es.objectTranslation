@@ -8,33 +8,5 @@
         <plural>true</plural>
         <value><!-- Configuraciones de etiquetas personalizadas --></value>
     </caseValues>
-    <fields>
-        <label><!-- New Label --></label>
-        <name>FinServ__NewLabel__c</name>
-    </fields>
-    <fields>
-        <label><!-- Object Field Name --></label>
-        <name>FinServ__ObjectFieldName__c</name>
-    </fields>
-    <fields>
-        <label><!-- Object Type --></label>
-        <name>FinServ__ObjectName__c</name>
-    </fields>
-    <fields>
-        <label><!-- Record Type Namespace --></label>
-        <name>FinServ__ObjectRTNamespace__c</name>
-    </fields>
-    <fields>
-        <label><!-- Object Record Type --></label>
-        <name>FinServ__ObjectRecordType__c</name>
-    </fields>
-    <fields>
-        <label><!-- Lookup Field --></label>
-        <name>FinServ__RelationshipName__c</name>
-    </fields>
-    <fields>
-        <label><!-- View Name --></label>
-        <name>FinServ__ViewName__c</name>
-    </fields>
     <gender><!-- Feminine --></gender>
 </CustomObjectTranslation>
